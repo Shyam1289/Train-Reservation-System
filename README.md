@@ -1,6 +1,6 @@
 # Train-Reservation-System
 <b>Train Reservation System</b> <br>
-Tech Stacks --> C++,Multi-Threading,Mutex,Semaphores <br>
+<i>Tech Stacks --> C++,Multi-Threading,Mutex,Semaphores </i><br>
 Description : <br>
 This is a concurrency(Process Synchronization) project under the field of Operating Systems.<br>
 The Project exploits multithreading to achieve concurrency in real life ticket booking systems.<br>
